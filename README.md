@@ -26,7 +26,7 @@ Bachelor's Degree in Software Engineering, Bujumbura International University
 
 📫 Contact Information
 
-✉️ Email: nithéonesteni@gmail.com
+✉️ Email: nitheonesteni@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/theonesteni
 🌐 Portfolio: https://nitheoneste.github.io/theo/
 
